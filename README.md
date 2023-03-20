@@ -1,4 +1,4 @@
-_# TruffleDevelopment
+# TruffleDevelopment
 ## Truffle command
  1. _truffle init_  =
      This will initialize the Truffle project-related files and folders under the current directory
